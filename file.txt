@@ -1,6 +1,5 @@
 phobos is a nice choice
-<<<<<<< HEAD
 This is master
-=======
+
 This is moons buddy
->>>>>>> moons
+
